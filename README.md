@@ -1,4 +1,5 @@
-# vuejs-crm
+# CRM по учету денежных средств на VueJS
+Учебный проект
 
 ## Project setup
 ```
